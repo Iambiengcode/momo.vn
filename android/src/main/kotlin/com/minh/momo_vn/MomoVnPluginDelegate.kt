@@ -1,4 +1,4 @@
-package com.minh.momo_vn
+package com.askany.momo
 
 import android.annotation.TargetApi
 import android.app.Activity

@@ -1,6 +1,6 @@
 @file:Suppress("DEPRECATION")
 
-package com.minh.momo_vn
+package com.askany.momo
 import io.flutter.embedding.engine.plugins.FlutterPlugin
 import io.flutter.embedding.engine.plugins.activity.ActivityAware
 import io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding

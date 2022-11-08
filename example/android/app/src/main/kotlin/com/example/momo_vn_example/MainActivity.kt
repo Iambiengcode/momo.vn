@@ -1,4 +1,4 @@
-package com.minh.momo_vn_example
+package com.askany.momo_example
 
 import io.flutter.embedding.android.FlutterActivity
 

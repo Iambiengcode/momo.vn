@@ -1,4 +1,4 @@
-package com.minh.momo_vn
+package com.askany.momo
 
 object MomoVnConfig {
     const val CHANNEL_NAME = "momo_vn"
